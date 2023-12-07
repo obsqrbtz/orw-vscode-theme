@@ -1,0 +1,21 @@
+{
+  "name": "orw-colorscheme",
+  "displayName": "orw",
+  "description": "Theme based on the default color scheme from openbox ricing wrapper (https://github.com/s0la/orw).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "orw",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orw-color-theme.json"
+      }
+    ]
+  }
+}
