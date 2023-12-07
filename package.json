@@ -2,7 +2,7 @@
   "name": "orw-colorscheme",
   "displayName": "orw",
   "description": "Theme based on the default color scheme from openbox ricing wrapper (https://github.com/s0la/orw).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "obsqrbtz",
   "repository": "https://github.com/obsqrbtz/orw-vscode-theme",
   "engines": {
@@ -11,6 +11,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#acbfb5",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {

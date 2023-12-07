@@ -4,7 +4,7 @@ Theme based on the default colorscheme from [openbox ricing wrapper](https://git
 
 **Screenshot**
 
-![Theme preview](preview.png)
+![Theme preview](images/preview.png)
 
 ## Install
 
