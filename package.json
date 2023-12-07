@@ -3,6 +3,8 @@
   "displayName": "orw",
   "description": "Theme based on the default color scheme from openbox ricing wrapper (https://github.com/s0la/orw).",
   "version": "0.0.1",
+  "publisher": "obsqrbtz",
+  "repository": "https://github.com/obsqrbtz/orw-vscode-theme",
   "engines": {
     "vscode": "^1.54.0"
   },
